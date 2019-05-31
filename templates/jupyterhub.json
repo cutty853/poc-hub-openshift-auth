@@ -167,7 +167,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "https://github.com/jupyter-on-openshift/jupyterhub-quickstart.git"
+                        "uri": "https://github.com/cutty853/jupyterhub-quickstart.git"
                     }
                 },
                 "strategy": {
